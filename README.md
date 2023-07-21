@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://www.wallpaperflare.com/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-sgsrg)
+[![MasterHead](https://www.wallpaperflare.com/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-sgsrg)
 <h1 align="center">Hi 👋, I'm sarthak</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
