@@ -1,4 +1,4 @@
-[![MasterHead](https://www.wallpaperflare.com/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-sgsrg)]
+[![MasterHead]https://www.wallpaperflare.com/1920x1080-px-code-coding-programming-simple-background-anime-ah-my-goddess-hd-art-wallpaper-sgsrg
 <h1 align="center">Hi 👋, I'm sarthak</h1>
 <h3 align="center">A passionate frontend developer from India 🇮🇳</h3>
 
