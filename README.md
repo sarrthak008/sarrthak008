@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **javascript libararies**
 
-- 💬 Ask me about **C,HTML,CSS,JAVASCRIPT,GSAP,PHOTO_EDTING**
+- 💬 Ask me about **C,HTML,CSS,JAVASCRIPT,GSAP,PHOTO_EDTING,C**
 
 - 📫 How to reach me **sarthaknavale40@gmail.com**
 
