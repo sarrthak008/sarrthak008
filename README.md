@@ -26,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarrthak008&show_icons=true&locale=en" alt="sarrthak008" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarrthak008&" alt="sarrthak008" /></p>
+
+![GitHub followers](https://img.shields.io/github/followers/pyaaditya?color=aqua&label=Followers&style=for-the-badge) 
+ ![GitHub User's stars](https://img.shields.io/github/stars/pyaaditya?affiliations=OWNER&color=aqua&style=for-the-badge)
