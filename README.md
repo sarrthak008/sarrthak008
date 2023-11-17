@@ -3,7 +3,7 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarrthak008&label=Profile%20views&color=0e75b6&style=plastic" alt="sarrthak008" /> </p> 
   
  - ɪ ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ʙᴀᴄᴋᴇɴᴅ ᴡɪᴛʜ ɴᴏᴅᴇ ᴇxᴘʀᴇss,ɢsᴀᴘ, ғʀᴏɴᴛᴇɴᴅ)) 
- - **[ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ!]()** 
+ - **[ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ](https://wa.me/8459360294)** 
   
   
  ##  🐙 **ɢɪᴛʜᴜʙ sᴛᴀᴛs** 
@@ -16,4 +16,4 @@
   
  ## 🌐 **Top Languages** 
   
- [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=war-legend&show_icons=true&theme=radical&layout=compact)](https://github.comsarrthak008)
+ [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=war-legend&show_icons=true&theme=radical&layout=compact)](https://github.com/sarrthak008)
