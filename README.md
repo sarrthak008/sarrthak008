@@ -1,31 +1,19 @@
-
-<h1 align="center">ʜɪ, ɪ'ᴍ sᴀʀᴛʜᴀᴋ</h1>
-<h3 align="center">ɪᴍ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ ɪɴᴅɪᴀ🇮🇳</h3>
-
-<p align="left"> <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="sarrthak008" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarrthak008" alt="sarrthak008" /></a> </p>
-
-- 🌱 I’m currently learning **javascript libararies**
-
-- 💬 Ask me about **C,HTML,CSS,JAVASCRIPT,GSAP,PHOTO_EDTING,C**
-
-- 📫 How to reach me **sarthaknavale40@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/sarthak___x__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hhu" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarrthak008&show_icons=true&locale=en&layout=compact" alt="sarrthak008" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarrthak008&show_icons=true&locale=en" alt="sarrthak008" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarrthak008&" alt="sarrthak008" /></p>
-
-![GitHub followers](https://img.shields.io/github/followers/pyaaditya?color=aqua&label=Followers&style=for-the-badge) 
- ![GitHub User's stars](https://img.shields.io/github/stars/pyaaditya?affiliations=OWNER&color=aqua&style=for-the-badge)
+# ʜᴇʏ, ɪ ᴀᴍ sᴀʀᴛʜᴀᴋ👨‍💻  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+  
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=pyaaditya&label=Profile%20views&color=0e75b6&style=plastic" alt="pyaaditya" /> </p> 
+  
+ - ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ;)) 
+ - **[ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ!](https://t.me/noobzen)** 
+  
+  
+ ##  🐙 **ɢɪᴛʜᴜʙ sᴛᴀᴛs** 
+  
+ [![github stats](https://github-readme-stats.vercel.app/api?username=pyaaditya&show_icons=true&theme=radical)](https://github.com/pyaaditya) 
+  
+ ![GitHub followers](https://img.shields.io/github/followers/pyaaditya?color=aqua&label=Followers&style=for-the-badge) 
+ ![GitHub User's stars](https://img.shields.io/github/stars/pyaaditya?affiliations=OWNER&color=aqua&style=for-the-badge) 
+  
+  
+ ## 🌐 **Top Languages** 
+  
+ [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=war-legend&show_icons=true&theme=radical&layout=compact)](https://github.com/pyaaditya)
