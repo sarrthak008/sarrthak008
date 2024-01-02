@@ -15,8 +15,8 @@
  ![GitHub User's stars](https://img.shields.io/github/stars/sarrthak008?affiliations=OWNER&color=aqua&style=for-the-badge) 
   
   
- ## 🌐 **ᴛᴏᴘ ʟᴀɴɢᴜᴀɢᴇs** 
-  
- [![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=war-legend&show_icons=true&theme=radical&layout=compact)](https://github.com/sarrthak008)
+ *ʜᴇʟʟᴏ ᴡᴏʀʟᴅ*
+
+https://camo.githubusercontent.com/aa0f78fb4abd254489d6d99468b0883ee85b7d796c8e87f0eb981719946c2fba/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f76697368616c303331362f636f756e742e7376673f
 
 
