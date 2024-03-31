@@ -14,7 +14,7 @@
  ![GitHub followers](https://img.shields.io/github/followers/sarrthak008?color=aqua&label=Followers&style=for-the-badge) 
  ![GitHub User's stars](https://img.shields.io/github/stars/sarrthak008?affiliations=OWNER&color=aqua&style=for-the-badge) 
   
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![©](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) 
 
   
  *ʜᴇʟʟᴏ ᴡᴏʀʟᴅ*
