@@ -18,7 +18,7 @@
 
 sᴛᴀᴛᴜs : 🪽
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarrthak008&theme=github-compact-dimmed&custom_title=sᴀʀᴛʜᴀᴋ%20ᴀᴄᴛɪᴠɪᴛʏ%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sarrthak008&theme=github-compact&custom_title=sᴀʀᴛʜᴀᴋ%20ᴀᴄᴛɪᴠɪᴛʏ%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
  *ʜᴇʟʟᴏ ᴡᴏʀʟᴅ*
