@@ -1,7 +1,11 @@
 
 # ʜᴇʏ, ɪ ᴀᴍ sᴀʀᴛʜᴀᴋ👨‍💻  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+
+
+<p align="center" style="color:white"><img src="./KEYBOARD_GIF.gif" alt="sarrthak008" width="100%" height="220px" style="border-radius:4px"/>"Every line of code you type is a conversation with your keyboard make it meaningful."</p> 
   
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarrthak008&label=Profile%20views&color=0e75b6&style=plastic" alt="sarrthak008" /> </p> 
+  
+ <p align="left"><img src="https://komarev.com/ghpvc/?username=sarrthak008&label=Profile%20views&color=0e75b6&style=plastic" alt="sarrthak008" /> </p> 
   
  - ᴍᴇʀɴ ᴅᴇᴠ ---
  - **[ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ](https://wa.me/8459360294)** 
@@ -23,6 +27,5 @@ sᴛᴀᴛᴜs :🪽
   
  *ʜᴇʟʟᴏ ᴡᴏʀʟᴅ*
 
-![helo](https://camo.githubusercontent.com/aa0f78fb4abd254489d6d99468b0883ee85b7d796c8e87f0eb981719946c2fba/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f76697368616c303331362f636f756e742e7376673f) 
 
 
